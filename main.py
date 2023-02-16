@@ -1,6 +1,6 @@
-import song_install as songIN
-import song_select as songSel
-import lyricGet as lyricG
+import program.song_install as songIN
+import program.song_select as songSel
+import program.lyricGet as lyricG
 
 print("1. Song Install\n 2. Lyrics Get\n 3. Song Select\n")
 
